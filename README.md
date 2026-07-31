@@ -1,19 +1,29 @@
-# 表象される世界教会 ― 公式デジタルメディアにおける地理的表象と実際の会員分布の空間的乖離
+# 表象される世界教会 ― 公式Webサイトにおける地理的表象と実際の会員分布の乖離
 
 **卒業論文構想発表資料**
+
+青山学院大学 地球社会共生学部 地球社会共生学科
+
+岡村風花/ Fuka Okamura
+
+学生番号 1A123042
+
+指導教員 古橋大地 教授
+
+©︎Furuhashi Laboratory/Fuka Okamura, CC BY 4.0
 
 ---
 
 ## Abstract
 
-本研究は、[末日聖徒イエス・キリスト教会(LDS教会)の公式デジタルメディア]()が、国・地域をどのように取り上げているかを、[実際の会員分布データ](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)と比較することで、メディア上の地理的表象と実態との乖離を定量的に明らかにすることを目的とする。教会公式サイトが公開する[大陸別会員統計](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)と、半年ごとに発行される公式動画[「World Report」](https://newsroom.churchofjesuschrist.org/article/world-report)の記事本文とを突き合わせ、地域ごとの「表象指数(表象シェア÷実態シェア)」を算出する。2020年4月号から2026年4月号までの13号分を対象とした予備的な集計では、Asia・Europe・Africaで実態を上回る取り上げられ方(過大表象)が見られる一方、South Americaでは実態に比して著しく取り上げられる頻度が低い(過小表象)という結果が得られた。本発表では、研究の背景・目的・方法と、現時点までの予備的な結果を示し、今後の検証課題を提示する。
+本研究は、[末日聖徒イエス・キリスト教会(LDS教会)の公式デジタルメディア]()が、国・地域をどのように取り上げているかを、[実際の会員分布データ](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)と比較することで、Webサイト上の地理的表象と実態との乖離を定量的に明らかにすることを目的とする。教会公式サイトが公開する[大陸別会員統計](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)と、半年ごとに発行される公式動画[「World Report」](https://newsroom.churchofjesuschrist.org/article/world-report)の記事本文とを突き合わせ、地域ごとの「表象指数(表象シェア÷実態シェア)」を算出する。2020年4月号から2026年4月号までの13号分を対象とした予備的な集計では、Asia・Europe・Africaで実態を上回る取り上げられ方(過大表象)が見られる一方、South Americaでは実態に比して著しく取り上げられる頻度が低い(過小表象)という結果が得られた。本発表では、研究の背景・目的・方法と、現時点までの予備的な結果を示し、今後の検証課題を提示する。
 
 ---
 
 ## Introduction
 
 ### 背景
-教会の公式デジタルプラットフォーム(Newsroom、World Report、Facts and Statisticsなど)は、個別の地域教会というより「一つの世界教会」としてのアイデンティティを視覚的・数値的に構築していると考えられる。この構築のされ方を明らかにすることは、宗教組織のデジタルコミュニケーション戦略を理解するうえで意味を持つ。
+教会の公式Webサイトは、個別の地域教会というより「一つの世界教会」としてのアイデンティティを視覚的・数値的に構築していると考えられる。この構築のされ方を明らかにすることは、宗教組織のデジタルコミュニケーション戦略を理解するうえで意味を持つ。
 
 先行研究を確認したところ、モルモン教のデジタルメディアとアイデンティティ構築というテーマ自体はすでに複数の学位論文で扱われているが、その多くは言説分析やインタビューを中心とした質的研究であり、**複数の公式プラットフォームを横断した定量的・空間的な比較分析**は管見の限り十分に行われていない。
 
@@ -32,7 +42,7 @@
 ## Methods
 
 ### データソース
-1. **実態データ**:教会公式サイトの [facts-and-statistics](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)ページに掲載されている、大陸単位(6地域)の会員数・教会数・神殿数
+1. **実態データ**:教会公式Webサイトの [facts-and-statistics](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)ページに掲載されている、大陸単位(6地域)の会員数・教会数・神殿数
 2. **表象データ**:半年に一度発行される公式動画コンテンツ[「World Report」](https://newsroom.churchofjesuschrist.org/article/world-report)の記事本文における、国・地域への言及
 
 ### 空間単位
@@ -102,4 +112,10 @@
 4. 表象指数を大陸境界データと結合し、QGISによるコロプレスマップを作成する
 5. 以上を踏まえ、Meiningの空間モデルおよびAndersonの想像の共同体論と接続した考察を深め、卒業論文としての結論を導く
 
+## 参考文献
 
+1. Meinig, D. W. (1965). The Mormon Culture Region: Strategies and Patterns in the Geography of the American West, 1847–1964. *Annals of the Association of American Geographers*, 55(2), 191–219. https://doi.org/10.1111/j.1467-8306.1965.tb00515.x
+
+2. Avance, R. (2015). Constructing Religion in the Digital Age: The Internet and Modern Mormon Identities [Doctoral dissertation, University of Pennsylvania]. https://repository.upenn.edu/edissertations/1593
+
+3. Eller, M. E. "I'm a Mormon": The development of a religious identity [M.A. Thesis, Purdue University]. https://docs.lib.purdue.edu/dissertations/AAI1544317
