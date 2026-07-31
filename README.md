@@ -111,11 +111,3 @@
 3. JordanおよびSyriaについて、実態データ側の公式統計ページの有無を確認する
 4. 表象指数を大陸境界データと結合し、QGISによるコロプレスマップを作成する
 5. 以上を踏まえ、Meiningの空間モデルおよびAndersonの想像の共同体論と接続した考察を深め、卒業論文としての結論を導く
-
-## 参考文献
-
-1. Meinig, D. W. (1965). The Mormon Culture Region: Strategies and Patterns in the Geography of the American West, 1847–1964. *Annals of the Association of American Geographers*, 55(2), 191–219. https://doi.org/10.1111/j.1467-8306.1965.tb00515.x
-
-2. Avance, R. (2015). Constructing Religion in the Digital Age: The Internet and Modern Mormon Identities [Doctoral dissertation, University of Pennsylvania]. https://repository.upenn.edu/edissertations/1593
-
-3. Eller, M. E. "I'm a Mormon": The development of a religious identity [M.A. Thesis, Purdue University]. https://docs.lib.purdue.edu/dissertations/AAI1544317
