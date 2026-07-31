@@ -32,15 +32,15 @@
 ## Methods
 
 ### データソース
-1. **実態データ**:教会公式サイトの facts-and-statistics ページに掲載されている、大陸単位(6地域)の会員数・教会数・神殿数
-2. **表象データ**:半年に一度発行される公式動画コンテンツ「World Report」の記事本文(newsroom.churchofjesuschrist.org)における、国・地域への言及
+1. **実態データ**:教会公式サイトの [facts-and-statistics](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)ページに掲載されている、大陸単位(6地域)の会員数・教会数・神殿数
+2. **表象データ**:半年に一度発行される公式動画コンテンツ[「World Report」](https://newsroom.churchofjesuschrist.org/article/world-report)の記事本文における、国・地域への言及
 
 ### 空間単位
 教会公式の地域区分である Africa / Asia / Europe / North America / Oceania (Pacific) / South America の6地域を分析単位とする。
 
 ### 分析手順
-1. facts-and-statistics ページから、6地域それぞれの会員数を取得し、**実態シェア**(各地域の会員数 ÷ 6地域合計)を算出する
-2. World Report各号の記事本文を読み、言及されている国・地域を1言及=1行の形式で記録する
+1. [facts-and-statistics](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country) ページから、6地域それぞれの会員数を取得し、**実態シェア**(各地域の会員数 ÷ 6地域合計)を算出する
+2. [World Report各号](https://newsroom.churchofjesuschrist.org/article/world-report)の記事本文を読み、言及されている国・地域を1言及=1行の形式で記録する
 3. 記録した国名・州名・広域表現(例:Texas、Southeast Asia、Caucasusなど)を、あらかじめ作成した対応表を用いて6地域に正規化する
 4. 正規化した地域ごとに言及件数を集計し、**表象シェア**(各地域の言及件数 ÷ 総言及件数)を算出する
 5. **表象指数** = 表象シェア ÷ 実態シェア を算出する(1.0を上回れば過大表象、下回れば過小表象と解釈する)
@@ -49,7 +49,7 @@
 2020年4月号〜2026年4月号(計13号、約6年分)
 
 ### 使用ツール
-Excel(対応表による自動正規化・集計)。今後、地域ごとの表象指数を大陸境界データと結合し、QGISでコロプレスマップとして可視化する予定である。
+[Excel](https://1drv.ms/x/c/0d91c773653e6296/IQDR5FFluIvHSYRGPtKkz47PAZMVQGUCq0P7yfNaXuubOEg?e=bfNk9r)(対応表による自動正規化・集計)。今後、地域ごとの表象指数を大陸境界データと結合し、QGISでコロプレスマップとして可視化する予定である。
 
 ### 方法上の留意点(現時点で把握している限界)
 - World Reportの記事本文は動画内容の要約であり、動画本編に登場する全ての国・地域を網羅していない可能性がある
