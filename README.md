@@ -16,7 +16,7 @@
 
 ## Abstract
 
-本研究は、[末日聖徒イエス・キリスト教会(LDS教会)の公式デジタルメディア]()が、国・地域をどのように取り上げているかを、[実際の会員分布データ](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)と比較することで、Webサイト上の地理的表象と実態との乖離を定量的に明らかにすることを目的とする。教会公式サイトが公開する[大陸別会員統計](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)と、半年ごとに発行される公式動画[「World Report」](https://newsroom.churchofjesuschrist.org/article/world-report)の記事本文とを突き合わせ、地域ごとの「表象指数(表象シェア÷実態シェア)」を算出する。2020年4月号から2026年4月号までの13号分を対象とした予備的な集計では、Asia・Europe・Africaで実態を上回る取り上げられ方(過大表象)が見られる一方、South Americaでは実態に比して著しく取り上げられる頻度が低い(過小表象)という結果が得られた。本発表では、研究の背景・目的・方法と、現時点までの予備的な結果を示し、今後の検証課題を提示する。
+本研究は、[末日聖徒イエス・キリスト教会(LDS教会)の公式Webサイト](https://www.churchofjesuschrist.org/?lang=eng)が、国・地域をどのように取り上げているかを、[実際の会員分布データ](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)と比較することで、Webサイト上の地理的表象と実態との乖離を定量的に明らかにすることを目的とする。教会公式サイトが公開する[大陸別会員統計](https://newsroom.churchofjesuschrist.org/facts-and-statistics/country)と、半年ごとに発行される公式動画[「World Report」](https://newsroom.churchofjesuschrist.org/article/world-report)の記事本文とを突き合わせ、地域ごとの「表象指数(表象シェア÷実態シェア)」を算出する。2020年4月号から2026年4月号までの13号分を対象とした予備的な集計では、Asia・Europe・Africaで実態を上回る取り上げられ方(過大表象)が見られる一方、South Americaでは実態に比して著しく取り上げられる頻度が低い(過小表象)という結果が得られた。本発表では、研究の背景・目的・方法と、現時点までの予備的な結果を示し、今後の検証課題を提示する。
 
 ---
 
