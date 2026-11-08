@@ -199,7 +199,7 @@ OSMのデータ収集の方法として、最も件数の多い `denomination=mo
 
 | タグ | 件数 | 備考 |
 |---|---|---|
-| `denomination_1=latter-day saint` | 確認済み | 非標準キー |
+| `denomination_1=latter-day saint` | 1 | 非標準キー |
 
 ##### 分派との混同リスク
 
