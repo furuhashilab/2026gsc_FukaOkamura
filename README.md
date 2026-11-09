@@ -15,7 +15,7 @@
 ## 目次
 - [構想発表](#構想発表)
 - [中間発表](#中間発表)
-
+- 発表資料<https://docs.google.com/presentation/d/12PMkuHpbq2FXm7saZ7XYuKcxwJzwnDLx74EnEM3q40Q/edit?usp=sharing>
 ---
 
 ## 構想発表
